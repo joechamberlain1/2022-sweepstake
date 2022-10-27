@@ -1,5 +1,4 @@
 # 2022-sweepstake
-An sweepstake draw 
 
 Clone the repo and change the names to everyone who is involved. 
 
